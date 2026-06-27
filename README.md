@@ -80,16 +80,26 @@
 | 3M Scotch Tape | 3.9/5 | 21% | 14,778 | ₹130 |
 | Bluetooth Smart | 4.1/5 | 74% | 412 | ₹499 |
 
----
+## 🎥 Dashboard Demo
+
+![Dashboard Demo](./dashboard-preview.png)
 
 ## 🛠️ Tools Used
 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-FF6B6B?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
----
+## 🎓 Learning Source
+Learned from **Satish Dhawale Sir**
+Founder of **SkillCourse**
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-sharma-137503316/?trk=li_LOL_DA_global_careers_jobsgtm_otwGeneral_res_Sep2023_dav1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adityajjkl773975@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/adityasharma2468)
 
 ## 💡 DAX Measures Used
 
